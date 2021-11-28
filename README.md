@@ -1,5 +1,7 @@
-# plotly-challenge
+# Biodiversity Dataset
 Plot.ly Exercise - Belly Button Biodiversity
+<br>
+<i>(plotly-challenge)</i>
 
 ## Background
 * Build an interactive dashboard to explore the Belly Button Biodiversity dataset, which catalogs the microbes that colonize human navels.
