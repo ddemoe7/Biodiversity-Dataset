@@ -27,6 +27,6 @@ Plot.ly Exercise - Belly Button Biodiversity
 ![Screen Shot 2021-07-13 at 1 10 02 AM](https://user-images.githubusercontent.com/22499952/125394063-10f46e80-e377-11eb-8a8b-de6ab606d0d9.png)
 
 Link to dashboard:
-https://ddemoe7.github.io/plotly-challenge/
+https://ddemoe7.github.io/Biodiversity-Dataset/
 
 
